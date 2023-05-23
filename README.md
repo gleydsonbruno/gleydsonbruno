@@ -1,6 +1,6 @@
 ### Oi, eu sou o Gleydson
 
-- 🌱 Estudando JavaScript, HMTL e CSS
+- 🌱 Estudando JavaScript, HMTL, CSS e Python
 - 🖥️ Faço parte de um projeto que visa o aprendizado em Redes de Computadores
 - 📫 Contate-me pelo email: gleydson111932@gmail.com
 
