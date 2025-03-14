@@ -1,7 +1,8 @@
 ### Oi, eu sou o Gleydson
 
-- 🌱 Estudante de Dart e Flutter
-- 🖥️ Futuro desenvolvedor mobile
+- 🌱 Estudante de Dart, Flutter e Python 
+- 🖥️ Formado em Técnico de Informática pelo IFPB (3/3)
+- 🖥️ Estudante do curso de Análise e Desenvolvimento de Sistemas (1/4)
 - 📫 Contate-me pelo email: gleydson111932@gmail.com
 
 <div align="center">
@@ -12,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> 
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 ##
