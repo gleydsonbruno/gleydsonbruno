@@ -1,6 +1,6 @@
 ### Oi, eu sou o Gleydson
 
-- 🌱 Estudante de Dart, Flutter e Python 
+- 🌱 Estudante de Dart, Flutter, MySQL e Python 
 - 🖥️ Formado em Técnico de Informática pelo IFPB (3/3)
 - 🖥️ Estudante do curso de Análise e Desenvolvimento de Sistemas (1/4)
 - 📫 Contate-me pelo email: gleydson111932@gmail.com
