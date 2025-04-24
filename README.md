@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" >
 </div>
 
 ##
