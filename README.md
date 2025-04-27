@@ -8,9 +8,8 @@
 ## Gleydson Bruno
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleydsonbruno/) 
-[![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gleydson111932@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleydsonbruno/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gleydson111932@gmail.com)
 
 ## Habilidades
 
